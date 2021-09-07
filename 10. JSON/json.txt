@@ -1,0 +1,8 @@
+브라우저 위에서 동작하고 있는 Client 들이 어떻게 서버와 통신할 수 있는가?
+HTTP (HyperText Transfer Protocol) : 어떻게 하이퍼텍스트를 주고 받을 수 있는지를 정의해 놓은 규약
+여기서, 하이퍼텍스트는 하이퍼링크뿐만 아니라 문서나 이미지 파일들까지 포함하고 있음.
+- request : 클라이언트가 서버에게 데이터 요청
+- response : 서버는 요청 사항에 맞는 데이터를 서버에 전송
+
+HTTP 를 이용해서 서버로부터 데이터를 요청해서 받아올 수 있는 방법
+AJAX : Asynchronous JavaScript And XML
